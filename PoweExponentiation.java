@@ -24,5 +24,7 @@ public class PoweExponentiation {
         }
 
         System.out.println("Answer = " + ans);
+        sc.close();
     }
+    
 }
