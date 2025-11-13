@@ -1,0 +1,17 @@
+
+# Ignore compiled class files
+*.class
+
+# Ignore package output directories
+/out/
+/bin/
+/target/
+
+# Ignore temporary or OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
