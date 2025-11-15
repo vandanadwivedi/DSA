@@ -6,7 +6,7 @@ public class ArayValue {
         System.out.println("Enter the array size:");
         int num= sc.nextInt();
 
-          int[] arr = new int[num];
+          int arr[] = new int[num];
 
         System.out.println("Enter " + num + " elements:");
        
