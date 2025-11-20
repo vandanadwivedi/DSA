@@ -9,8 +9,19 @@ public class Calculater {
         
         System.out.print("Enter second number: ");
         int b = sc.nextInt();
+
          int sum = a+b;
-         System.out.println("Sum ="+sum);
+         System.out.println("Sum="+sum);
+
+         int sub= a-b;
+         System.out.println("Subtract="+sub);
+
+         int multi=a*b;
+         System.out.println("Multiply="+multi);
+
+         int div=a/b;
+         System.out.println("Divide="+div);
+
 
     }
 }
